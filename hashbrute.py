@@ -3,6 +3,7 @@
 Hash Cracker - Cracker de hashes MD5, SHA1, SHA256
 CREADOR: phishbroker
 CONTACTO: phishbroker@proton.me
+SITIO: https://phishbroker.github.io/blackmarket/
 """
 
 import hashlib
