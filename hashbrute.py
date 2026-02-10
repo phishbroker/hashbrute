@@ -2,7 +2,6 @@
 """
 Hash Cracker - Cracker de hashes MD5, SHA1, SHA256
 CREADOR: phishbroker
-CREADOR: phishbroker
 CONTACTO: https://x.com/phishbroker
 """
 
